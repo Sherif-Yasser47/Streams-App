@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "pubg",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "fortnite",
+      "description": "my second one",
+      "id": 2
+    },
+    {
+      "title": "league of legends",
+      "description": "Hope ypu enjoy it!",
+      "id": 3
+    },
+    {
+      "title": "WOW",
+      "description": "creating child stream form component!!!!",
+      "userId": "114941680722635175889",
+      "id": 7
+    },
+    {
+      "title": "Call of Duty",
+      "description": "testing creation",
+      "userId": "114941680722635175889",
+      "id": 8
+    }
+  ]
+}
